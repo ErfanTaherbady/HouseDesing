@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 460c9ec0b923b414e9ac1602d7809213, type: 3}
+  m_Name: DataBase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: Floor
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 10, y: 10}
+    <Perfab>k__BackingField: {fileID: 175886647813805099, guid: 6bafb9556d35ba840bebea4eea7d34c2,
+      type: 3}
+  - <Name>k__BackingField: Chair
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 3, y: 3}
+    <Perfab>k__BackingField: {fileID: 4428052050468720457, guid: e033e50487fb016449143cd70d837387,
+      type: 3}
+  - <Name>k__BackingField: Big Bad
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 20, y: 20}
+    <Perfab>k__BackingField: {fileID: 8842486615849298614, guid: e375a7937f9b6954191f8d64d7917486,
+      type: 3}
+  - <Name>k__BackingField: Tabel
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 20, y: 10}
+    <Perfab>k__BackingField: {fileID: 366868503259110775, guid: c8183485a28237d4385a3c7ef8659faa,
+      type: 3}
+  - <Name>k__BackingField: Wall
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 3, y: 10}
+    <Perfab>k__BackingField: {fileID: 6354167729532289066, guid: d36c0066d59a4ce4585637088ff93b52,
+      type: 3}
+  - <Name>k__BackingField: Door
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 3, y: 10}
+    <Perfab>k__BackingField: {fileID: 3968779418062719418, guid: 41904a40d4873f04c8c349d1cce773b4,
+      type: 3}
+  - <Name>k__BackingField: Wall And Window
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 10, y: 3}
+    <Perfab>k__BackingField: {fileID: 7543082989912388617, guid: f3f6e70ff1b6e3648bf491619e940b1c,
+      type: 3}
